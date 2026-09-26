@@ -9,6 +9,7 @@
 5. `05-modelo-dominio.md` define las entidades y flujos principales sin pretender ser el esquema final.
 6. `06-calidad-seguridad-operacion.md` define controles minimos para entregar software confiable.
 7. `07-decisiones-pendientes.md` concentra preguntas al cliente y decisiones que bloquean presupuesto o desarrollo.
+8. `08-guia-de-incorporacion.md` explica el estado actual, los comandos y el orden recomendado de avance.
 
 ## Regla de fuente de verdad
 
