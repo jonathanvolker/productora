@@ -1,0 +1,11 @@
+{
+  "name": "@productora/domain",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "tsc --outDir dist --noEmit false",
+    "lint": "echo 'Lint pendiente de configurar'",
+    "typecheck": "tsc --noEmit",
+    "test": "echo 'No tests yet'"
+  }
+}

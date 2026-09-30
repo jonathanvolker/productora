@@ -1,0 +1,14 @@
+{
+  "name": "@productora/ui",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "tsc --outDir dist --noEmit false",
+    "lint": "echo 'Lint pendiente de configurar'",
+    "typecheck": "tsc --noEmit",
+    "test": "echo 'No tests yet'"
+  },
+  "peerDependencies": {
+    "react": "^19.1.0"
+  }
+}
